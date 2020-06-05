@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="primary_light">#FFECB3</color>
+    <color name="material_amber_a200">#80ffe082</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#212121</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="material_blue_50">#e1f5fe</color>
+    <color name="material_blue_200">#81d4fa</color>
+    <color name="material_blue_500">#03a9f4</color>
+    <color name="material_blue_700">#0288d1</color>
+    <color name="material_blue_a700">#0091ea</color>
+    <color name="inbox_accent">#db4437</color>
+    <color name="material_orange_500">#FF9800</color>
+    <color name="material_white_1000">#ffffff</color>
+    <color name="inbox_primary">#4285f4</color>
+    <color name="material_green_500">#4CAF50</color>
+</resources>
